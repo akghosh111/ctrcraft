@@ -150,3 +150,9 @@ html {
     }
   }
 }
+
+footer {
+  background: linear-gradient(135deg, #f7f5e9 0%, #f3eecb 50%, #d9d8d2 100%);
+  color: #6b7280; /* lighter gray text */
+}
+
